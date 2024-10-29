@@ -1,16 +1,19 @@
-#KeyLogger
-A Python-based keylogger to capture keyboard inputs, primarily for security testing and educational purposes.
+# KeyLogger
 
-#Features
-Background Monitoring: Tracks keystrokes in the background.
-Log Storage: Saves captured keystrokes in a secure log file.
-Executable Option: Includes a ready-to-run .exe file for direct use.
+A Python-based keylogger to capture keyboard inputs, ideal for **security testing** and **educational** uses.
 
-#Requirements
-Python 3.x
-pynput library (install with pip install pynput)
+## Features
+- **Background Monitoring**: Tracks keystrokes silently.
+- **Log Storage**: Saves captured inputs in a secure file.
+- **Executable Option**: Includes a `.exe` file for quick startup.
 
-#Usage
-Clone the repository.
-Run k_log.py to start logging.
-⚠ Note: Use responsibly for ethical purposes only.
+## Requirements
+- **Python 3.x**
+- **pynput** library: Install with `pip install pynput`
+
+## Usage
+1. **Clone** the repository.
+2. Run `k_log.py` directly or **double-click** `k_log.exe` to start logging.
+
+> ⚠ **Important:** Use ethically and responsibly.
+
